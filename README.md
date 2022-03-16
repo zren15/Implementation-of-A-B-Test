@@ -1,4 +1,4 @@
-# Implementation-of-A-B-Test
+# Implementation 0f A/B Test
 
 <img src="tile_view.png" width="350" align="right" >
 
